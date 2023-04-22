@@ -1,0 +1,36 @@
+body {
+
+    background-image: linear-gradient(  #abc2d5,#9687ad);
+    }
+    
+    .container {
+        margin: 50px auto;
+        background-color:gray (352 92% 5%);
+        height: 500px;
+        max-width: 500px;
+        text-align: center;
+        border: solid black 10px;
+        border-radius: 8px;
+    }
+    
+    
+    input[type="number"] {
+        padding: 10px;
+        font-size: 20px;
+        border-radius: 5px;
+        border: rgb(14, 16, 27);
+        margin: 35px;
+        width: 20%;
+    }
+    
+    h1 {
+        color: rgb(23, 23, 32);
+        font-size: 36px;
+        margin-bottom: 20px;
+    }
+    
+    label {
+        color: rgb(12, 12, 12);
+        font-size: 24px;
+        margin-right: 20px;
+    }
